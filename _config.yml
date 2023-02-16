@@ -17,8 +17,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: <font size=5> FINANCE DIRECTOR | DATA SCIENTIST | MACHINE LEARNING </font>
 location: "Helena, MT"
-resume_url: PowerBI/docs/BrandyMurrayResume.pdf
-avatar_image: PowerBI/img/HeadShot.jpg
+resume_url: /PowerBI/docs/BrandyMurrayResume.pdf
+avatar_image: /PowerBI/img/HeadShot.jpg
 
 #-------------------------------
 # Contact links
